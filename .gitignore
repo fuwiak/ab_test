@@ -1,0 +1,47 @@
+# Data files - exclude all CSV files in data directory
+data/*.csv
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files (optional - you may want to keep these)
+# logs/*.log
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Temporary analysis files
+*.tmp
+temp_*
+
+# Large data exports (optional)
+# reports/*.xlsx 

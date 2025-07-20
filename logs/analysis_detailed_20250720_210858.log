@@ -1,0 +1,32 @@
+2025-07-20 21:08:58,882 - ABTestAnalysis - INFO - ============================================================
+2025-07-20 21:08:58,883 - ABTestAnalysis - INFO - STARTING A/B TESTING DATA ANALYSIS
+2025-07-20 21:08:58,883 - ABTestAnalysis - INFO - ============================================================
+2025-07-20 21:08:58,883 - ABTestAnalysis - INFO - Loading datasets...
+2025-07-20 21:08:58,883 - ABTestAnalysis - INFO - 
+Loading ABgroup.csv (Player group assignments)...
+2025-07-20 21:08:58,884 - ABTestAnalysis - ERROR - File not found: data/ABgroup.csv
+2025-07-20 21:08:58,884 - ABTestAnalysis - INFO - 
+Loading Cash.csv (In-game currency spending)...
+2025-07-20 21:08:58,884 - ABTestAnalysis - ERROR - File not found: data/Cash.csv
+2025-07-20 21:08:58,884 - ABTestAnalysis - INFO - 
+Loading Cheaters.csv (Known cheaters)...
+2025-07-20 21:08:58,885 - ABTestAnalysis - ERROR - File not found: data/Cheaters.csv
+2025-07-20 21:08:58,885 - ABTestAnalysis - INFO - 
+Loading Money.csv (Real money payments)...
+2025-07-20 21:08:58,885 - ABTestAnalysis - ERROR - File not found: data/Money.csv
+2025-07-20 21:08:58,885 - ABTestAnalysis - INFO - 
+Loading Platforms.csv (Gaming platforms)...
+2025-07-20 21:08:58,886 - ABTestAnalysis - ERROR - File not found: data/Platforms.csv
+2025-07-20 21:08:58,886 - ABTestAnalysis - INFO - 
+✓ All datasets loaded successfully!
+2025-07-20 21:08:58,887 - ABTestAnalysis - INFO - Total datasets: 0
+2025-07-20 21:08:58,887 - ABTestAnalysis - INFO - 
+==================================================
+2025-07-20 21:08:58,888 - ABTestAnalysis - INFO - DATA SUMMARY
+2025-07-20 21:08:58,888 - ABTestAnalysis - INFO - ==================================================
+2025-07-20 21:08:58,889 - ABTestAnalysis - INFO - Total rows across all datasets: 0
+2025-07-20 21:08:58,889 - ABTestAnalysis - INFO - Total memory usage: 0.0 MB
+2025-07-20 21:08:58,889 - ABTestAnalysis - INFO - 
+==================================================
+2025-07-20 21:08:58,890 - ABTestAnalysis - INFO - DATA INTEGRITY VALIDATION
+2025-07-20 21:08:58,890 - ABTestAnalysis - INFO - ==================================================

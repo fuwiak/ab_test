@@ -1,0 +1,32 @@
+============================================================
+STARTING A/B TESTING DATA ANALYSIS
+============================================================
+Loading datasets...
+
+Loading ABgroup.csv (Player group assignments)...
+File not found: data/ABgroup.csv
+
+Loading Cash.csv (In-game currency spending)...
+File not found: data/Cash.csv
+
+Loading Cheaters.csv (Known cheaters)...
+File not found: data/Cheaters.csv
+
+Loading Money.csv (Real money payments)...
+File not found: data/Money.csv
+
+Loading Platforms.csv (Gaming platforms)...
+File not found: data/Platforms.csv
+
+✓ All datasets loaded successfully!
+Total datasets: 0
+
+==================================================
+DATA SUMMARY
+==================================================
+Total rows across all datasets: 0
+Total memory usage: 0.0 MB
+
+==================================================
+DATA INTEGRITY VALIDATION
+==================================================
