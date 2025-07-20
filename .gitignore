@@ -38,10 +38,14 @@ Thumbs.db
 # Excel temporary files
 ~$*.xlsx
 ~$*.xls
+.~lock.*
 
 # Temporary analysis files
 *.tmp
 temp_*
+
+# Duplicate visualization folders
+src/visualizations/
 
 # Large data exports (optional)
 # reports/*.xlsx 
